@@ -1,12 +1,12 @@
 body {
 
     background: black;
-    color:rgba(75, 187, 24, 0.486);
+    color:olivedrab
 
 }
 
 header {
-    border:solid 2px #6b8e23;
+    border:solid 2px #1a1b19;
     font-size: 32px;
     color: #6b8e23;
 }
