@@ -2,11 +2,14 @@ body {
 
     background: black;
     color:rgb(105, 128, 0)
+    margin:0px
 
 }
 
 header {
-    border:solid 2px olivedrab;
+    border:solid 2px #6b8e23;
+    font-size: 24px;
+    color: #6b8e23;
 }
 
 
